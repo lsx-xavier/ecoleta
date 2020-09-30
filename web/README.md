@@ -8,7 +8,7 @@
 
 JSX -> Sintaxe de XML (html) dentro do javascript ou typescript;
 Components -> Pequenos trechos de HTML, JS e enfins, Conteudos/objetos que podem ser repetidos (ex: cards, header, lista);
-Propriedades -> São atributos que enviamos para os components (ex: <Header title="Hello world" />);
+Propriedades -> São atributos que enviamos para os components (ex: ```JSX <Header title="Hello world" /></code> ```);
 Interface ->  É uma forma de definir uma tipagem de um objecto, string e etc... "esta ligado com as propriedades";
 Estado -> Armazenar uma informação apartir do componente, input como exemplo, informações mantidas pelo próprio componente;
 
