@@ -20,8 +20,8 @@ Estado -> Armazenar uma informação apartir do componente, input como exemplo, 
   ### Anotação de useState
 
   Fica acessível em tempo real para a aplicação!
-
+```Anotacao
   const [counter, setCounter] = useState(0);
   Retorna -> [valor do estado, Função para atualizar o valor do estado]
-
+```
   Sempre que criamos um estado para um array ou objeto, precisamos manualmente o tipo da variavel para armazenamento. Criando uma interface!
