@@ -16,6 +16,7 @@
     "leaflet": "^1.7.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-dropzone": "^11.2.0",
     "react-icons": "^3.11.0",
     "react-leaflet": "^2.7.0",
     "react-router-dom": "^5.2.0",
@@ -42,5 +43,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/react-dropzone": "^5.1.0"
   }
 }
